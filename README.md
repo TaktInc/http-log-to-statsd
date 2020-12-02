@@ -60,3 +60,4 @@ If you use Telegraf/InfluxDB, you might want to use InfluxDB's tag format:
       --listen=<listen>        Address and port number to listen on [default: 127.0.0.1:6666]
       --statsd=<server>        Address and port number of statsd server [default: 127.0.0.1:8125]
       --prefix=<prefix>        Statsd prefix for metrics [default: "http.request"]
+
